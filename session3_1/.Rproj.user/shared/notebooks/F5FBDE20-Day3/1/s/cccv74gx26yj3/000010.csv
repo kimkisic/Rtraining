@@ -1,0 +1,10 @@
+"0",""
+"0","mtcars$name <- rownames(mtcars)"
+"0","sqldf(""select * from mtcars where name like 'Merc%'"") %>%"
+"0","  ggplot(aes(x=wt, y=hp)) +"
+"0","  geom_point() +"
+"0","  geom_smooth(method=""lm"", col=""red"") +"
+"0","  geom_text(aes(y=hp), label=name)"
+"2","Error in layer(data = data, mapping = mapping, stat = stat, geom = GeomText,  : 
+  객체 'name'를 찾을 수 없습니다
+"

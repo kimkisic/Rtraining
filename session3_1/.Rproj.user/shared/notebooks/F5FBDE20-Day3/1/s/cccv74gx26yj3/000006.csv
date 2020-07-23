@@ -1,0 +1,7 @@
+"0",""
+"0","DF<-sqldf("
+"0","  """
+"0","  select age from titanic3 where age !='NA'"
+"0","  """
+"0",")"
+"0","DF"

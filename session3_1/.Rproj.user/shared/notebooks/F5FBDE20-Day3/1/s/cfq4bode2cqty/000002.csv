@@ -1,0 +1,8 @@
+"0","sqldf("
+"0","  """
+"0","  SELECT age, circumference"
+"0","  FROM Orange"
+"0","  WHERE Tree = 1"
+"0","  ORDER BY circumference ASC"
+"0","  """
+"0",")"

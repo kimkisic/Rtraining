@@ -1,0 +1,32 @@
+{
+    "id": "FEC8D23D",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1595492579919.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "expression": "library",
+        "caption": "library",
+        "totalObservations": 345,
+        "displayedObservations": 345,
+        "variables": 40,
+        "cacheKey": "F9FA9133",
+        "object": "library",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=library&cache_key=F9FA9133&max_cols=50",
+        "preview": 0
+    },
+    "folds": "",
+    "lastKnownWriteTime": 8389754706581218082,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1595492579919,
+    "read_only": false,
+    "read_only_alternatives": []
+}
